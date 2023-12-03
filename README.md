@@ -1,2 +1,2 @@
 # covid-dashboard
-Queries used for Covid Dashboard Data visualisation in Tableau
+SQL Queries used for Covid Dashboard Data visualisation in Tableau
